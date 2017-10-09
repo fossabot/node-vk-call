@@ -1,4 +1,5 @@
 # vk-call [![Build Status](https://travis-ci.org/VKCOM/node-vk-call.svg?branch=master)](https://travis-ci.org/VKCOM/node-vk-call)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fnode-vk-call.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fnode-vk-call?ref=badge_shield)
 
 > Simple API wrapper for VK.com social network.
 > Inspired by [node-vk-sdk](https://github.com/gavr-pavel/node-vk-sdk).
@@ -149,3 +150,6 @@ We use [mocha](https://github.com/mochajs/mocha) for testing. All test files are
 ## License
 
 Distributed under [MIT LICENSE](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fnode-vk-call.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fnode-vk-call?ref=badge_large)
